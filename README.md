@@ -1,4 +1,4 @@
-## virused
+## Virused
 
 Virused attempts to archive info about Coronavirus19, such as vaccine RNA, statistics,
 and press publishings.
